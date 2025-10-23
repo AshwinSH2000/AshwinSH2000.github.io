@@ -3,7 +3,7 @@ Hi, I'm Ashwin, MSc Computer Science graduate from the University of Edinburgh, 
 ## Selected Projects
 
 ### [VDCA](https://vdca.netlify.app)
-Visualising Divide-and-Conquer Algorithms*  
+Visualising Divide-and-Conquer Algorithms 
 🔗 [Live](https://vdca.netlify.app) · [Source](https://github.com/ashwinsh2000/VDCA)
 
 ---
